@@ -27,6 +27,30 @@
     "precio":1200,
     "id":5,
     "title":"Compu 4",
-    "url":"https://picsum.photos/id/03/600"
+    "url":"https://picsum.photos/id/3/600"
   },
+  {
+    "precio":1200,
+    "id":6,
+    "title":"Compu 1",
+    "url":"https://picsum.photos/id/6/600"
+  },
+  {
+    "precio":1200,
+    "id":7,
+    "title":"Compu 1",
+    "url":"https://picsum.photos/id/8/600"
+  },
+  {
+    "precio":1200,
+    "id":8,
+    "title":"Compu 1",
+    "url":"https://picsum.photos/id/9/600"
+  },
+  {
+    "precio":1200,
+    "id":9,
+    "title":"Compu 1",
+    "url":"https://picsum.photos/id/8/600"
+  }
 ]
