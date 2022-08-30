@@ -31,7 +31,21 @@
     <hr>
     <h2 class="text-center">Productos</h2>
     <div class="row" id="cards"></div>
+
     <template id="template-footer">
+      <th scope="row" colspan="2">
+        Total Products
+      </th>
+      <td>10</td>
+      <td>
+        <button class="btn btn-danger btn-sm">
+          Vaciar Carrito
+        </button>
+      </td>
+      <td class="font-weight-bold">$ <span>5000</span></td>
+    </template>
+
+    <template id="template-carrito">
       <tr>
         <th scope="row">id</th>
         <td>Nombre Productos</td>
